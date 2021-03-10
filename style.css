@@ -1,0 +1,43 @@
+h1, h2 {
+  font-family: Lato;
+}
+
+.metadato{
+  font-family: "Courier New";
+  border-style: dotted;
+  background-color:rgb(138, 154, 245);
+  margin-left: 40px;
+  margin-right: 80px;
+}
+
+.titulo{
+  font-family: "Courier New";
+  background-color:rgb(165, 166, 168);
+  margin-left: 430px;
+  margin-right: 520px;
+}
+
+.titulo1{
+  font-family: "Courier New";
+  background-color:rgb(165, 166, 168);
+  margin-left: 530px;
+  margin-right: 610px;
+}
+
+.cuadro{
+  margin-left: 250px;
+  margin-right: 200px;
+}
+
+.cuadro1{
+  margin-left: 350px;
+  margin-right: 200px;
+}
+
+.fuente{
+  font-family: "Courier New";
+  margin-left: 450px;
+  margin-right: 400px;
+}
+
+.pagebreak {page-break-before: always;}
